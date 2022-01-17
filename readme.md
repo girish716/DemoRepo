@@ -16,4 +16,8 @@ updated in temp_branch
 
 updated for conflict in master
 
+<<<<<<< HEAD
 temp_branch
+=======
+temp_branch1
+>>>>>>> temp_branch1
